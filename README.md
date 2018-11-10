@@ -1,2 +1,3 @@
 # Standard-Deviation-Calcuator
-Enter a list of numbers and get the standard deviation
+Shows a simple example of pointers and dynamic memory allocation.
+User enters a list of numbers and gets the average and standard deviation.
